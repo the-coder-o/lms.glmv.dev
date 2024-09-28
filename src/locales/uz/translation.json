@@ -1,0 +1,90 @@
+{
+  "home": "Bosh sahifa",
+  "courses": "Kurslar",
+  "faq": "FAQ",
+  "contact": "Aloqa",
+  "enter": "Kirish",
+  "functional": "Funksional",
+  "prices": "Narxlar",
+  "questions": "Savollar",
+  "notFound": {
+    "message": "Not found",
+    "title": "This page not found"
+  },
+  "footer": {
+    "poweredBy": "Global Move tomonidan qo'llab quvvatlanadi"
+  },
+  "instantlyBegin": {
+    "title": "Bugunoq Edbox bilan sotishni boshlang.",
+    "description": "O’z shaxsiy brendingizni keyingi darajaga olib chiqing. Oson. Tez. Qulay. Edbox bilan boshlang."
+  },
+  "essentialTool": {
+    "title": "Sizni yutuqga eltuvchi funksionallar",
+    "content": "Edbox'ning barcha imkoniyatlarini kashf eting: oddiy kurs yaratishdan tortib murakkab avtomatlashtirish va tahlillargacha",
+    "price": "To’lovlarni qabul qilish",
+    "priceDesc": "Edbox bilan siz mahalliy to’lov tizimlariga bir bosishda ulaysiz",
+    "easyDownload": "Oson kurslarni yuklash",
+    "easyDownloadDesc": "Kurslaringizni bir zumda tizimga yuklang va sotishni boshlang.",
+    "analytics": "Analitika",
+    "analyticsDesc": "Kurslaringizni raqamlarda kuzating.",
+    "protection": "Qattiq himoya",
+    "protectionDesc": "Kurslaringizni himoyalangan platformada soting."
+  },
+  "start": "Boshlash",
+  "bonus": "Bonus",
+  "bonusAbout": "Mock IELTS Imtihonlarini o’tkazing",
+  "instroduction": {
+    "title": "Ta'limni yangi darajaga olib chiqamiz."
+  },
+  "courseFlow": {
+    "content": "Edbox - Ta’limni yangi darajaga olib chiquvchi LMS! Kurslar yaratish, sotish va natijalarni kuzatish endi juda oson.Professional ta'lim platformasi bilan o'sishni boshlang.Maqsadimiz: innovatsion texnologiyalar orqali ta'lim sohasini yangi bosqichga ko'tarish va bilim ulashishni osonlashtirish"
+  },
+  "price": {
+    "description": "Edbox'ning barcha imkoniyatlarini kashf eting: oddiy kurs yaratishdan tortib murakkab avtomatlashtirish va tahlillargacha",
+    "monthly": "Oylik",
+    "yearly": "Yillik",
+    "billed": "to'lov"
+  },
+  "lessonCount": "Darslar soni",
+  "seeCourse": "Kursni ko’rish",
+  "sum": "so'm",
+  "all": "Barchasi",
+  "design": "Dizayn",
+  "biznes": "Biznes",
+  "programming": "Dasturlash",
+  "javascript": "Javascript",
+  "typescript": "Typescript",
+  "english": "English",
+  "features": "Xususiyatlar",
+  "support": "Qo'llab-quvvatlash",
+  "billing": "Hisob-kitob",
+  "inquiries": {
+    "title": "Savollar qoldimi?",
+    "description": "Ko’p so’raladigan savollarga javoblarni quyida toping, barcha boshqa savollarga shaxsan bog’lanib javob beramiz.",
+    "questionEmail": "What types of email templates are available?",
+    "questionEmailAnswer": "Nashra offers a wide range of templates, including newsletters, promotional emails, event invitations, and more. All templates are fully customizable.",
+    "questionWork": "How does the automation workflow work?",
+    "questionWorkAnswer": "Our automation workflow allows you to set up triggers and actions based on user behavior. For example, you can send a welcome email when someone subscribes to your list or a follow-up email after a purchase.",
+    "questionAnalytics": "What kind of analytics does Nashra provide?",
+    "questionAnalyticsAnswer": "Nashra provides detailed analytics including open rates, click-through rates, bounce rates, and conversion metrics. You can also track the performance of individual campaigns and segments."
+  },
+  "educationSolution": {
+    "title": "Edbox ilova orqali deyarli o'zgaruvchan ta'lim jihatlarini kashf eting: bu xavfsiz, shoshilinch tezkor platforma orqali o'quvchilarning o'qish jarayonini takomillashtiring va taraqqiyot uchun ajoyib imkoniyatlardan foydalaning."
+  },
+  "course": {
+    "empty": "Kurs mavjud emas"
+  },
+  "error": "Xatolik",
+  "close": "Yopish",
+  "teacher": "Mentor",
+  "term": "Muddati",
+  "courseLang": "Kurs tili",
+  "studentCount": "O'quvchilar soni",
+  "coursePrice": "Kurs narxi",
+  "buy": "Sotib olish",
+  "lessons": "Darslar",
+  "aboutTeacher": "Mentor haqida",
+  "comments": "Izohlar",
+  "workPlace": "Ish joyi",
+  "experience": "Ish tajribasi"
+}

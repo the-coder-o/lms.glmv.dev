@@ -1,0 +1,43 @@
+{
+  "home": "Home",
+  "courses": "Courses",
+  "faq": "FAQ",
+  "contact": "Contact",
+  "enter": "Enter",
+  "functional": "Functional",
+  "prices": "Prices",
+  "questions": "Questions",
+  "notFound": {
+    "message": "Not found",
+    "title": "This page not found"
+  },
+  "footer": {
+    "poweredBy": "Powered by Global Move"
+  },
+  "instantlyBegin": {
+    "title": "Start selling with Edbox today.",
+    "description": "Take your personal branding to the next level. Simple. Fast. Convenient. Start with Edbox."
+  },
+  "essentialTool": {
+    "title": "Features that lead you to success",
+    "content": "Discover all the capabilities of Edbox: from simple course creation to complex automation and analytics",
+    "price": "Payment acceptance",
+    "priceDesc": "With Edbox, you connect to local payment systems with a single click",
+    "easyDownload": "Easy course upload",
+    "easyDownloadDesc": "Upload your courses to the system instantly and start selling.",
+    "analytics": "Analytics",
+    "analyticsDesc": "Track your courses in numbers.",
+    "protection": "Strong protection",
+    "protectionDesc": "Sell your courses on a secure platform."
+  },
+  "start": "Start",
+  "instroduction": {
+    "title": "Taking education to the next level."
+  },
+  "price": {
+    "description": "Discover all the capabilities of Edbox: from simple course creation to complex automation and analytics",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "billed": "billed"
+  }
+}

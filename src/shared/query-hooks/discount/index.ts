@@ -1,0 +1,1 @@
+export { useGetDiscount } from './discount'

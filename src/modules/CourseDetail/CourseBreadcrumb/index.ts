@@ -1,0 +1,1 @@
+export { CourseBreadcrumb } from './CourseBreadcrumb'

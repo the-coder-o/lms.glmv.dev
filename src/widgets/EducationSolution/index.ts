@@ -1,0 +1,1 @@
+export { EducationSolution } from './EducationSolution'

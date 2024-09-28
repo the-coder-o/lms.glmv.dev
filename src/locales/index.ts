@@ -1,0 +1,1 @@
+export { appDictionary } from './app'

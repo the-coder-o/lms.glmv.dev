@@ -1,0 +1,1 @@
+export { Inquiries } from './Inquiries'

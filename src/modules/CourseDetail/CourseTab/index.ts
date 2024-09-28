@@ -1,0 +1,1 @@
+export { CourseTab } from './CourseTab'
